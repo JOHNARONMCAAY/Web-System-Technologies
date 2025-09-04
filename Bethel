@@ -12,33 +12,27 @@
       <h3>BETHEL UNIVERSITY</h3>
 
       <section>
-        <article>
           <a href="">MyBethel</a>
           <a href="">Offices</a>
           <a href="">News</a>
           <a href="">Events</a>
           <a href="">Blogs</a>
-        </article>
       </section>
 
       <section>
-        <article>
           <a href="">Apply</a>
           <a href="">Visit</a>
           <a href="">Give</a>
           <input type="search" name="" id="" />
-        </article>
       </section>
 
       <section>
-        <article>
           <a href="">About</a>
           <a href="">Admission & Aid</a>
           <a href="">Academics</a>
           <a href="">Student Life</a>
           <a href="">Athletics</a>
           <a href="">Faith</a>
-        </article>
       </section>
     </header>
 
